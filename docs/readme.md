@@ -1,4 +1,4 @@
-# [IEEE VIS Panel] TALK, TRY, TELL: Challenges and Opportunities for Theory-Grounded Data Visualization in Extended Reality
+# [IEEE VIS Panel] Molecules to Humankind: Charting the Frontiers of Multiscale Visualization
 
 Andreas Bueckle<sup>1</sup>, Christiane V. R. Hütter<sup>2,3</sup>, Jörg Menche<sup>2,3,4,5</sup>, Katy Börner<sup>1,6</sup>
 
@@ -13,17 +13,16 @@ Andreas Bueckle<sup>1</sup>, Christiane V. R. Hütter<sup>2,3</sup>, Jörg Mench
 TBD
 
 # Description of the Panel Topic
-
+TBD
 
 # Short Description of the Panel Format and Anticipated Schedule
 
-               |
+TBD
+
+# List of Prospective Panelists
 
 
-# Speakers/Panelists
-
-
-# Organizers
+# List of Organizers
 
 <img src="images/bueckle.jpg" width = "25%">
 
