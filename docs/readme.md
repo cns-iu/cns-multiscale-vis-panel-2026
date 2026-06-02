@@ -1,4 +1,4 @@
-# [IEEE VIS Panel] Molecules to Humankind: Charting the Frontiers of Multiscale Visualization
+# [IEEE VIS Panel] Molecules to Humankind: Challenges in Multiscale Visualization
 
 Andreas Bueckle<sup>1</sup>, Christiane V. R. Hütter<sup>2,3</sup>, Jörg Menche<sup>2,3,4,5</sup>, Katy Börner<sup>1,6</sup>
 
