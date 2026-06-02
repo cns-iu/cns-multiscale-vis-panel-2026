@@ -21,7 +21,6 @@ TBD
 
 # List of Prospective Panelists
 
-
 # List of Organizers
 
 <img src="images/bueckle.jpg" width = "25%">
