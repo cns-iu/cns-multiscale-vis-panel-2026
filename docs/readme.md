@@ -10,14 +10,13 @@ Andreas Bueckle<sup>1</sup>, Christiane V. R. Hütter<sup>2,3</sup>, Jörg Mench
 <sup>6</sup> CIFAR MacMillan Multiscale Human, Canadian Institute for Advanced Research (CIFAR), Toronto, ON, Canada
 
 # Time and Date
-TBD
+To be announced.
 
 # Description of the Panel Topic
-TBD
+To be announced.
 
 # Short Description of the Panel Format and Anticipated Schedule
-
-TBD
+To be announced.
 
 # List of Prospective Panelists
 
