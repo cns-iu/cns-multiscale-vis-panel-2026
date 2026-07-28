@@ -1,3 +1,3 @@
-# Panel website for the IEEE VIS 2025 panel entitled "TALK, TRY, TELL: Challenges and Opportunities for Theory-Grounded Data Visualization in Extended Reality"
+# Panel website for the IEEE VIS 2026 panel entitled "Molecules to Humankind: Challenges in Multiscale Visualization"
 
-The deployed website is at [https://cns-iu.github.io/data-vis-xr-panel-2025/](https://cns-iu.github.io/data-vis-xr-panel-2025/).
+The deployed website is at [https://cns-iu.github.io/cns-multiscale-vis-panel-2026](https://cns-iu.github.io/cns-multiscale-vis-panel-2026/).
