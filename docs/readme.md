@@ -17,7 +17,7 @@ IEEE VIS website: [https://ieeevis.org/year/2026/program/session/v-panels-panel1
 
 # Description of the Panel Topic
 
-![](/docs/images/fig1.png)
+![](images/fig1.png)
 ***Fig. 1**. Multiscale, numbered reference axis across more than 10 orders of magnitude, from molecules to the human body and beyond. Representative objects at each scale provide visual context; colored markers indicate the primary spatial scales in each panelist's research, incl. ranges. We will utilize this figure as a printed scale board with a numbered reference axis for the audience exercise.*
 
 Life unfolds in three dimensions, but much of what drives it remains invisible to the naked eye. From drug molecules through tissues and organ systems, understanding the human body requires traversing 10 orders of magnitude. Data visualization and 3D interactive user interfaces can help explore and communicate this complexity in support of multiscale reference atlas construction and precision modeling that support precision health and medicine.
