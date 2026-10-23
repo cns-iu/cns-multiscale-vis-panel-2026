@@ -10,7 +10,7 @@ Andreas Bueckle<sup>1</sup>, Christiane V. R. Hütter<sup>2,3</sup>, Jörg Mench
 <sup>6</sup> CIFAR MacMillan Multiscale Human, Canadian Institute for Advanced Research (CIFAR), Toronto, ON, Canada
 
 # Time and Date
-**Room**: Hall America south\
+**Room**: Hall America South\
 **Time**: Tuesday, Nov 10 @ 13:00 - 14:30 (US/Eastern)
 
 IEEE VIS website: [https://ieeevis.org/year/2026/program/session/v-panels-panel1](https://ieeevis.org/year/2026/program/session/v-panels-panel1)
