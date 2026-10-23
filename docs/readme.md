@@ -16,14 +16,30 @@ Andreas Bueckle<sup>1</sup>, Christiane V. R. Hütter<sup>2,3</sup>, Jörg Mench
 IEEE VIS website: [https://ieeevis.org/year/2026/program/session/v-panels-panel1](https://ieeevis.org/year/2026/program/session/v-panels-panel1)
 
 # Description of the Panel Topic
-To be announced.
+
+![](/docs/images/fig1.png)
+***Fig. 1**. Multiscale, numbered reference axis across more than 10 orders of magnitude, from molecules to the human body and beyond. Representative objects at each scale provide visual context; colored markers indicate the primary spatial scales in each panelist's research, incl. ranges. We will utilize this figure as a printed scale board with a numbered reference axis for the audience exercise.*
+
+Life unfolds in three dimensions, but much of what drives it remains invisible to the naked eye. From drug molecules through tissues and organ systems, understanding the human body requires traversing 10 orders of magnitude. Data visualization and 3D interactive user interfaces can help explore and communicate this complexity in support of multiscale reference atlas construction and precision modeling that support precision health and medicine.
+
+Filling a gap in prior years' IEEE VIS programs, our panel will synthesize relevant and emerging themes within the visualization community. Based on our panelist's expertise, we introduce a spectrum of visualization challenges, such as traversing scales without losing context, bridging diverse layers of information, and visual transitions. We recognize that multiscale visualization is an active research topic for which the community has not had a high-profile venue to synthesize its lessons.
+
+To address this gap, our panel brings together five experts from science (astrophysics, computer science, bioinformatics, molecular biology) and computing (machine learning, graphics, data visualization, computational media, scientific visualization) to examine the state-of-the-art in multiscale data visualization for exploration and communication which must remain coherent, interpretable, and actionable across every level of scale. Our panelists will briefly present their own work, then engage in a moderated discussion on areas of disagreement, unresolved challenges, and competing design philosophies. Rather than seeking consensus, the panel will deconstruct existing work from each panelist's research and directly compare alternative approaches to visual language, interaction design, scale transitions, and information density. Drawing on examples from multiple disciplines, the discussion will examine where current approaches converge, where they conflict, and what questions remain open for the wider visualization community. Panelists will be encouraged to articulate where their approaches diverge and to discuss the trade-offs underlying different solutions. Through concrete examples, we will identify both transferable principles and productive areas of disagreement for the broader IEEE VIS community.
+
+For audience engagement, we will bring the scale board with a numbered reference from Fig. 1 as a large print; it is inspired by the [NikonUniverscale](https://www.nikon.com/company/corporate/sp/universcale/). We will invite all attendees to put pins and strings on the printed scale board to create lines highlighting the spectrum of data scale(s) at which they work, or to place pins at specific indivpport documentation of the visualization community and experts of diverse domains who are attending and actively contributing to the panel. 
+
 
 # Short Description of the Panel Format and Anticipated Schedule
-To be announced.
+To avoid running this panel as a mere sequence of talks, panelist will only speak for 5 minutes each. An audience exercise will involve attendees indicating the data scale(s) they work at by putting pins on the printed scale board with a numbered reference axis representing different powers of 10. Also, we will encourage participants to state the data scale at which they typically work when introducing themselves (a spin on the common practice to state one's name and institutional affiliation). The 90-minute panel will consist of:
 
-# List of Prospective Panelists
+1. **Welcome and introduction (5 min)** by panel chairs;
+2. **5-minute talks by panelists (30 min)** with transition time;
+3. **Panel discussion (30 min):** The panel discusses the presented work and addresses questions from the audience;
+4. **Audience exercise (10 min):** Audience members place pins into the scale(s) at which they work on the printed scale board with a numbered reference axis with powers of 10 (see Fig. 1). If they work on multiple scales, they will be able to set multiple pins and connect them with yarn;
+5. **Panel discussion and reflection (10 min):** The panel reviews the audience responses and discusses emerging patterns and insights;
+6. **Conclusion (5 min)** with key takeaways.
 
-The following panelists are confirmed: 
+# List of Panelists
 
 <img src="images/goodmann.jpeg" width = "25%">
 
@@ -61,11 +77,11 @@ The following panelists are confirmed:
 
 <img src="images/börner.jpg" width = "25%">
 
-**Katy Börner, Ph.D.**, is the Victor H. Yngve Distinguished Professor of Engineering and Information Science in the Department of Intelligent Systems Engineering, Core Faculty of Cognitive Science, and Founding Director of CNS at Indiana University. She is a curator of the international Places and Spaces exhibit ([https://scimaps.org](https://scimaps.org/)). She was elected as an American Association for the Advancement of Science (AAAS) Fellow in 2012, obtained an Alexander von Humboldt Fellowship in 2017, and a Stiftung Charité Visiting Fellowship in 2025. 
+**Katy Börner, Ph.D.**, is the Victor H. Yngve Distinguished Professor of Engineering and Information Science in the Department of Intelligent Systems Engineering, Core Faculty of Cognitive Science, and Founding Director of CNS at Indiana University. She leads the Human Reference Atlas effort ([https://humanatlas.io](https://humanatlas.io)), is an MPI on the Whole Person Physiome ([https://wholepersonphysiome.org](https://wholepersonphysiome.org)), and a curator of the international Places & Spaces exhibit ([https://scimaps.org](https://scimaps.org)). Börner is a Fellow of the American Association for the Advancement of Science (AAAS), a Humboldt Research Fellow, an Association for Computing Machinery (ACM) Fellow, Network Society Fellow, and a Stiftung Charité Visiting Fellow.
 
 # Acknowledgments
 
-This panel was made possible through support from the the [CIFAR MacMillan Multiscale Human program](https://cifar.ca/research-programs/cifar-macmillan-multiscale-human/).
+This panel is made possible through support from the NIH award 1R03OD039970-01 (A.B.) and the [CIFAR MacMillan Multiscale Human program](https://cifar.ca/research-programs/cifar-macmillan-multiscale-human/) (K.B.).
 
 # About
 
